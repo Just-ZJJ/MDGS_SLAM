@@ -13,6 +13,10 @@
         <td><center><img src="https://github.com/Justzhongjj/MD_SLAM/blob/main/media/office0.gif" ></center></td>
         <td ><center><img src="https://github.com/Justzhongjj/MD_SLAM/blob/main/media/office3.gif"  ></center> </td>
     </tr>
+    <tr>
+        <td><center><img src="https://github.com/Justzhongjj/MD_SLAM/blob/main/media/balloon.gif" ></center></td>
+        <td ><center><img src="https://github.com/Justzhongjj/MD_SLAM/blob/main/media/mydata.gif"  ></center> </td>
+    </tr>
 </table>
 
 
