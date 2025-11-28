@@ -1,5 +1,5 @@
 
-# Real-Time RGB-D Gaussian SLAM with Multi-View Ray-Correspondence Densification for Scene Reconstruction
+# MDGS-SLAM: Real-Time RGB-D Gaussian SLAM with Multi-View Densification for Scene Reconstruction
 
 <h3 align="center"><a href="">Paper</a> | <a href="https://www.bilibili.com/video/BV16sGXzFEms/?share_source=copy_web&vd_source=1bf14fa95c6af9b6f95ec59f828e77e9">Video</a> | <a href="">Project Page</a></h3>
 
