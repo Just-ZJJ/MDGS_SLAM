@@ -1,0 +1,5 @@
+inherit_from: "configs/rgbd/replica/base_config.yaml"
+Dataset:
+  orb_settings_path: "configs/orb_config/Replica/office4.yaml"
+  dataset_path: "/home/6t/ZJJ/dataset/gsData/Replica/office4"
+  single_thread: False
