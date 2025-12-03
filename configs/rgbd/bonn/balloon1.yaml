@@ -1,0 +1,19 @@
+inherit_from: "configs/rgbd/bonn/base_config.yaml"
+
+Dataset:
+  dataset_path: "/home/6t/ZJJ/dataset/gsData/bonn/rgbd_bonn_balloon"
+  orb_settings_path: "configs/orb_config/Bonn/bonn.yaml"
+  Calibration:
+    fx: 542.822841
+    fy: 542.576870
+    cx: 315.593520
+    cy: 237.756098
+    k1: 0.039903
+    k2: -0.099343
+    p1: -0.000730
+    p2: -0.000144
+    k3: 0.000000
+    distorted: True
+    width: 640      # 确认 Bonn 数据集图像尺寸，通常也是 640x480
+    height: 480
+    depth_scale: 5000.0   # 确认深度缩放因子是否相同（Bonn 通常也是 5000）
