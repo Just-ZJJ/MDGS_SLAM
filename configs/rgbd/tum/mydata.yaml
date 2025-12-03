@@ -1,0 +1,30 @@
+inherit_from: "configs/rgbd/tum/base_config.yaml"
+
+Results:
+  save_results: False
+  save_dir: "results"
+  save_trj: False
+  save_trj_kf_intv: 0
+  use_gui: True
+  eval_rendering: False
+  use_wandb: False
+
+Dataset:
+  dataset_path: "/home/6t/ZJJ/dataset/gsData/TUM/mydata"
+  orb_settings_path: "configs/orb_config/Tum/mydata.yaml"
+  Calibration:
+    fx: 384.39569091796875
+    fy: 384.39569091796875
+    cx: 317.3839416503906
+    cy: 238.7324676513672
+    k1: 0.0
+    k2: 0.0
+    p1: 0.0
+    p2: 0.0
+    k3: 0.0
+    distorted: True
+    width: 640
+    height: 480
+    depth_scale: 1000.0
+    pcd_downsample: 32
+    pcd_downsample_init: 32
